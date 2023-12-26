@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm a starting programmer. 
+Currently learning: Java, SQL, Cybersec 🌱
+Currently working on: Minecraft Java Modding 🔭
 <!--
 **ludelah/ludelah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
