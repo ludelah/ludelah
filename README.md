@@ -1,7 +1,9 @@
-### Hi there 👋
-<h>I'm a starting programmer. </h>
-<p>Currently learning: C# .NET, React, Android SDK && Kotlin, Cybersec 🌱</p>
-<h4>🔭 I’m currently working on: </h4><p> CLI implementations of card games and a wip android app </p>
+### Hi there 👋 
+I'm a starting programmer.
+- Currently learning: C# .NET, React and C 🌱</p>
+- 🔭 I’m currently working on: Small very **secret games** 🤔
+- 💬 Ask me about: Alan Turing
+
 
 <!--
 **ludelah/ludelah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
