@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm a starting programmer.
-- Currently learning: C# .NET, React and C 🌱
-- 🔭 I’m currently working on: Small very **secret games** 🤔
-- 💬 Ask me about: Alan Turing
+- Currently learning: CSS, React and C 🌱
 
 
 <!--
