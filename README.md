@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm a starting programmer.
-- Currently learning: CSS, React and C 🌱
+- Currently learning: SQL, Prisma and C 🌱
 
 
 <!--
