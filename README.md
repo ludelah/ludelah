@@ -1,6 +1,6 @@
 ### Hi there 👋 
-I'm a starting programmer.
-- Currently learning: SQL, Prisma and C 🌱
+I'm Lew. I'm doing a degree in computer engineering and I'm currently doing an internship as an IT Support Technician at the US embassy in Buenos Aires in the meantime.
+
 
 
 <!--
